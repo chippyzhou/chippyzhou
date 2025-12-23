@@ -13,8 +13,6 @@
 ![Python](https://img.shields.io/badge/Code-Python%20%2F%20PyTorch-789262?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/Research-Natural%20Language%20Processing-A9B7C6?style=flat-square&logo=openai&logoColor=white)
 
----
-
 ### 📅 Current Focus (Todo List)
 
 | Priority | Task | Status | Note |
