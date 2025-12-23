@@ -21,8 +21,6 @@
 | 🟡 **Med** | **PyTorch 学习** | `Planned` | 寒假开始系统学习 Deep Learning |
 | 🟢 **Low** | |  |  |
 
-<br>
-
 ### ✅ Detailed Checklist
 
 - [x] **Setup GitHub Profile** (已完成！✨)
